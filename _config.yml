@@ -18,7 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Test", file: "index.html"}
   - {title: "CV", url: "RadioMacelee.github.io/CV.pdf"}
-  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:macelee8@gmail.com"}

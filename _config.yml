@@ -14,7 +14,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
-
+# Buttons for navigation.
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Test", file: "index.html"}
   - {file: "README.md"}

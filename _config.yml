@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Buttons for navigation.
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Test", file: "index.html"}
-  - {title: "CV", file: "CV.htm"}
+  - {title: "CV", file: "MasonCV.pdf"}
   - {file: "README.md"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
